@@ -98,7 +98,7 @@ Bhagwati_Classes/
 
 Umeed Patel
 
-# Scrennshot
+# ScreenShots
 
 ![login](\login.png)
 ![Home](\images\home.png)
