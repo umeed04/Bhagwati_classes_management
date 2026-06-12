@@ -102,6 +102,6 @@ Umeed Patel
 
 ![login](login.png)
 ![Home](\images\home.png)
-![Add student detail](images\AddDetail.png)
+![Add student detail](C:\Users\Admin\Downloads\Bhagwati_Classes\images\AddDetail.png)
 ![Search student detail](\images\search_student_detail.png)
 ![student fee detail](images\student_feedetail.png)
