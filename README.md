@@ -100,7 +100,7 @@ Umeed Patel
 
 # ScreenShots
 
-![login](\login.png)
+![login](login.png)
 ![Home](\images\home.png)
 ![Add student detail](images\AddDetail.png)
 ![Search student detail](\images\search_student_detail.png)
