@@ -1,0 +1,23 @@
+{
+  "name": "bhagwati_classes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "electron.js",
+  "scripts": {
+  "backend": "nodemon backend/index.js",
+  "frontend": "npm run dev --prefix frontend",
+  "electron": "electron .",
+  "dev": "concurrently \"npm run backend\" \"npm run frontend\" \"wait-on http://localhost:5174 && npm run electron\""
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "concurrently": "^9.2.1",
+    "electron": "^42.3.0",
+    "electron-builder": "^26.8.1",
+    "nodemon": "^3.1.14",
+    "wait-on": "^9.0.10"
+  }
+}
