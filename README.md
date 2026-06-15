@@ -99,3 +99,9 @@ Bhagwati_Classes/
 Umeed Patel
 
 # ScreenShots
+
+![login](images\login_page.png)
+![Home](images\home.png)
+![Add student detail](images\AddDetail.png)
+![Search student detail](images\search_student_detail.png)
+![student fee detail](images\student_feedetail.png)
